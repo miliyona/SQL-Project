@@ -1,2 +1,1 @@
-# sqlhomework
-sql homework file
+SQL Project Quering Data
